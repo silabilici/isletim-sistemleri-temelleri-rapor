@@ -1,0 +1,31 @@
+ ### AĞ TEMELLERİ (NETWORKİNG)
+
+  ##IP
+  Cihazların ağ üzerindeki adresidir,veri paketlerinin nereye gideceğini belirtir.
+
+  ##PORT 
+  Aynı cihaz üzerindeki farklı uygulamaları ayıran mantıksal kapılardır.
+
+  ##DSN
+  Alan adlarını ıp adreslerine çeviren sistemdir.
+
+  ##TCP 
+  Bağlantı odaklı,hatasız ve sıralı veri iletimi sağlar.
+
+  ##UDP 
+  Bağlantısız,hızlı fakat doğrulama yapmayan veri iletim protokolüdür.
+
+
+  #### PAKET YAPISI NASIL ÇALIŞIR?
+  Veriler paket adı verilen küçük parçalara bölünür ve her pakete kaynak-hedef IP,port ve kontrol bilgilerinin bulunduğu başlık eklenir; paketle hedefte yeniden birleştirilir.
+
+
+
+  ###PİNG 
+  Bir hedefe ulaşıp ulaşmadığını ve gecikme süresini test eder.
+
+  ###TRACEROUTE 
+  Bir paketin hedefe giderken geçtiği ağ cihazkarını adım adım gösterir.
+
+  ###NSLOOKUP 
+  Bir alan adını DSN kayıtlarını sorgulamak için kullanılır.
