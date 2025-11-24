@@ -1,0 +1,15 @@
+## 2. RAPOR
+
+### İşletim Sistemi Temelleri (OS Basics)
+
+## Kernel nedir?  
+ işletim sisteminin çekirdeğidir ve donanım ile yazılımlar arasındaki iletişimi sağlar. Sistem kaynaklarını yönetir.
+
+##Süreç (Process) – İş Parçacığı (Thread) farkı
+Process, çalışan bağımsız bir programdır. Thread ise proses içinde çalışan daha küçük yürütme birimidir ve aynı belleği paylaşır.
+
+##Bellek yönetimi nasıl yapılır?
+İşletim sistemi programlara bellek tahsis eder ve kullanımını takip eder. Sayfalama ve segmentasyon ile bellek verimli yönetilir.
+
+##CPU zamanlayıcıları nedir? 
+CPU zamanlayıcıları, hangi sürecin CPU’yu ne zaman kullanacağını belirleyen algoritmalardır. Amaç CPU’nun verimli kullanılmasını sağlamaktır.
